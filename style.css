@@ -34,7 +34,8 @@ padding:10px;
 }
 
 img{
-margin: 25px;
+margin:10px;
+border-radius:10px;
 }
 
 button{
@@ -160,4 +161,5 @@ width:100%;
 }
 
 }
+
 
